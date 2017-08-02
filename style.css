@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Gudea|Rancho');
+
+ header, h1{ 
+  font-family:"Rancho", cursive;
+  text-align: center;}
+
+
+a {text-decoration: none;}
+
+
+body {
+  font-family: 'Gudea', sans-serif;
+  background-color: rgb(215, 243, 255)
+}
+
+
+h2{ text-align: center;}
+
+
+nav li {  
+  display: inline-table;
+  vertical-align: top;
+  width: 20%;
+  font-size: 25px;
+  text-align: center;
+  background-color: coral
+
+}
+
